@@ -1,0 +1,16 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+.div-end-style {
+  display: flex !important; 
+  text-align: end !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.btn-style {
+  margin-right: 2%;
+}
+
+.form-class {
+  margin-top: 10%;
+}
